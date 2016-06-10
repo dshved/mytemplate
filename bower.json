@@ -1,0 +1,13 @@
+{
+  "name": "mybuilder",
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "normalize-css": "normalize.css#^4.1.1"
+  }
+}
